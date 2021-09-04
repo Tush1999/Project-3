@@ -1,4 +1,4 @@
-import Game from './Component/Game'
+import Game from './Component/Game/index'
 
 function App() {
   return (
